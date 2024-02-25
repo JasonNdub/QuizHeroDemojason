@@ -14,14 +14,14 @@
     "description": "A repository on GitHub is a storage space where all the files for a particular project are stored, along with every file's revision history."
   },
   {
-    "id": 23,
+    "id": 3,
     "question": "How do you clone a repository from GitHub to your local machine?",
     "options": ["Download as ZIP", "Copy and paste the files", "Use the 'git clone' command", "Use the 'git pull' command"],
     "answer": "Use the 'git clone' command",
     "description": "To clone a repository from GitHub to your local machine, you use the 'git clone' command followed by the URL of the repository."
   },
   {
-    "id": 24,
+    "id": 4,
     "question": "Which of the following is a feature of GitHub?",
     "options": ["Friend requests", "Project management tools", "Video conferencing", "Live streaming"],
     "answer": "Project management tools",
